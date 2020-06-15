@@ -24,7 +24,7 @@ Ecoleta
 
 <hr />
 
-## Recursos
+## Tecnologias utilizadas
 [//]: # (Add the features of your project here:)
 Este aplicativo apresenta todas as mais recentes ferramentas e práticas em desenvolvimento web!
 
