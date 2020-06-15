@@ -37,3 +37,6 @@ Este aplicativo apresenta todas as mais recentes ferramentas e práticas em dese
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte a página [MIT](https://opensource.org/licenses/MIT) para obter detalhes.
+
+##
+Feito por Julia Oliveira
